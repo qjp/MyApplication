@@ -7,7 +7,7 @@ import android.util.Log;
  */
 
 public class KKK {
-    private int count = 0;
+    private int count = 0;//
     private int getCount(){
         return ++count;
     }
